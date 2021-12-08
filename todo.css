@@ -125,6 +125,7 @@ a:link {
     position: fixed;
     left: 500px;
     top: 200px;
+    box-shadow: 5px 10px 8px #c7c5c5 ;
 }
 .input{
     border: 2px solid red;
@@ -253,6 +254,7 @@ a:link {
     position: fixed;
     left: 550px;
     top: 300px;
+    box-shadow: 5px 10px 8px #c7c5c5 ;
 }
 .c1d4pb{
     /* display: inline-block;
@@ -294,20 +296,20 @@ a:link {
         width: 80%;
         height: 100px;
         border-radius: 15px;
-        box-shadow: 5px 10px #c7c5c5 ;
+        box-shadow: 5px 10px 8px #c7c5c5 ;
         
     }
     .c2d2{
         border: 2px solid red; 
         width: 80%;
         height: 100px;
-        box-shadow: 5px 10px #888888;
+        box-shadow: 5px 10px 8px #c7c5c5 ;
     }
     .c2d3{
         border: 2px solid red; 
         width: 80%;
         height: 100px;
-        box-shadow: 5px 10px #888888;
+        box-shadow: 5px 10px 8px #c7c5c5 ;
     }
     .pending{
         display: none;
@@ -332,7 +334,7 @@ a:link {
     }
 
     .container1{
-        border: 2px solid red;
+/*         border: 2px solid red; */
         width: 90%;
         height: 60px;
         margin:0 5% 0 5%;
@@ -359,6 +361,7 @@ a:link {
         width: 80%;
         height: 60px;
         margin: 10% 10% 0 10%;
+        
     }
     .no-class{
         filter: blur(8px);
@@ -370,6 +373,7 @@ a:link {
         border-radius: 15px;
         margin:10% 20% 0 20%;
         position: relative;
+        box-shadow: 5px 10px 8px #c7c5c5 ;
     }
     .tparis{
         display: inline-block;
@@ -434,6 +438,7 @@ a:link {
         position: fixed;
         left: 10%;
         top: 200px;
+        box-shadow: 5px 10px 8px #c7c5c5 ;
     }
     .input{
         border: 2px solid red;
@@ -454,12 +459,13 @@ a:link {
         position: fixed;
         left: 10%;
         top: 300px;
+        box-shadow: 5px 10px 8px #c7c5c5 ;
     }
     
   }
   @media (max-width: 500px) {
     .container1{
-        border: 2px solid red;
+/*         border: 2px solid red; */
         width: 90%;
         height: 60px;
         margin:0 5% 0 5%;
@@ -545,6 +551,7 @@ a:link {
         border-radius: 15px;
         margin:5% 20% 0 20%;
         position: relative;
+        box-shadow: 5px 10px 8px #c7c5c5 ;
     }
     .text1p{
         text-align: center;
